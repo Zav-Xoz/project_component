@@ -1,0 +1,28 @@
+.pagination li {
+    margin-top: 20px;
+}
+
+
+.pagination li a {
+    color: black;
+    border: 1px solid #af84ff;
+    background-color: rgb(240, 230, 255);
+    padding: 5px 15px 5px 15px;
+    margin: 4px;
+    border-radius: 3px;
+    transition: all 0.2s ease-out;
+}
+
+.pagination li a:hover {
+    background-color: rgb(165, 145, 255);
+    border: 3px solid rgb(135, 60, 255);
+    color: white;
+}
+
+li a {
+    color: black;
+}
+
+li[class='active'] a {
+    background-color: rgb(218, 194, 255);
+}
