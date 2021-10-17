@@ -61,12 +61,12 @@
 
 * В базе данных для отображения пагинации и тестов присутствуют 6 пользователей:
 
-	1) johndoe@gmail.com
-	2) dicaprio@gmail.com
-	3) Qqq@qq.qq
-        4) supermen@ya.ru
-        5) Serg@ya.ru
-        6) sky@in.is
+	*  johndoe@gmail.com
+	*  dicaprio@gmail.com
+	*  Qqq@qq.qq
+        *  supermen@ya.ru
+        *  Serg@ya.ru
+        *  sky@in.is
          
 
 	Ко всем пользователям пароль: 123123
